@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "042532A91EE617370020B7D0"
-               BuildableName = "camtest.app"
-               BlueprintName = "camtest"
-               ReferencedContainer = "container:camtest.xcodeproj">
+               BuildableName = "camtest2.app"
+               BlueprintName = "camtest2"
+               ReferencedContainer = "container:camtest2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "042532BD1EE617370020B7D0"
-               BuildableName = "camtestTests.xctest"
-               BlueprintName = "camtestTests"
-               ReferencedContainer = "container:camtest.xcodeproj">
+               BuildableName = "camtest2Tests.xctest"
+               BlueprintName = "camtest2Tests"
+               ReferencedContainer = "container:camtest2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "042532C81EE617370020B7D0"
-               BuildableName = "camtestUITests.xctest"
-               BlueprintName = "camtestUITests"
-               ReferencedContainer = "container:camtest.xcodeproj">
+               BuildableName = "camtest2UITests.xctest"
+               BlueprintName = "camtest2UITests"
+               ReferencedContainer = "container:camtest2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "042532A91EE617370020B7D0"
-            BuildableName = "camtest.app"
-            BlueprintName = "camtest"
-            ReferencedContainer = "container:camtest.xcodeproj">
+            BuildableName = "camtest2.app"
+            BlueprintName = "camtest2"
+            ReferencedContainer = "container:camtest2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "042532A91EE617370020B7D0"
-            BuildableName = "camtest.app"
-            BlueprintName = "camtest"
-            ReferencedContainer = "container:camtest.xcodeproj">
+            BuildableName = "camtest2.app"
+            BlueprintName = "camtest2"
+            ReferencedContainer = "container:camtest2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "042532A91EE617370020B7D0"
-            BuildableName = "camtest.app"
-            BlueprintName = "camtest"
-            ReferencedContainer = "container:camtest.xcodeproj">
+            BuildableName = "camtest2.app"
+            BlueprintName = "camtest2"
+            ReferencedContainer = "container:camtest2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
